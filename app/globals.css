@@ -871,14 +871,6 @@ h2 {
   object-fit: contain;
 }
 
-.footer-links {
-  display: grid;
-  gap: 8px;
-  color: var(--teal);
-  font-weight: 800;
-  text-align: right;
-}
-
 @media (max-width: 980px) {
   .site-nav,
   .footer {
@@ -910,10 +902,6 @@ h2 {
 
   .contact-grid {
     grid-template-columns: 1fr;
-  }
-
-  .footer-links {
-    text-align: left;
   }
 }
 

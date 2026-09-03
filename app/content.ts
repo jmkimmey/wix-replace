@@ -24,9 +24,9 @@ export const siteContent = {
     text:
       "Lab snapshots, student milestones, and behind-the-scenes updates from Santa Cruz.",
     featuredImages: [
-      "/assets/kimmeylab/images/lab-signs-collage.jpg",
-      "/assets/kimmeylab/images/8d6acf_ff5e9eea03c64e3d874b99581b7ecdfb~mv2.png",
-      "/assets/kimmeylab/images/8d6acf_f37cfd78a3da4c4c9366a23590a48846~mv2.jpg",
+      "/assets/kimmeylab/images/social-conference-1.png",
+      "/assets/kimmeylab/images/social-conference-2.png",
+      "/assets/kimmeylab/images/social-poster-moe.png",
     ],
   },
   research: {
