@@ -24,8 +24,8 @@ export const siteContent = {
     text:
       "Lab snapshots, student milestones, and behind-the-scenes updates from Santa Cruz.",
     featuredImages: [
-      "/assets/kimmeylab/images/8d6acf_62cf37fd648e46a59299999590dc40e9~mv2.jpg",
-      "/assets/kimmeylab/images/8d6acf_ff1aee09b1c0411090b07dae9809a229~mv2.jpg",
+      "/assets/kimmeylab/images/lab-signs-collage.jpg",
+      "/assets/kimmeylab/images/8d6acf_ff5e9eea03c64e3d874b99581b7ecdfb~mv2.png",
       "/assets/kimmeylab/images/8d6acf_f37cfd78a3da4c4c9366a23590a48846~mv2.jpg",
     ],
   },
@@ -52,7 +52,7 @@ export const siteContent = {
   join: {
     headline: "Interested in joining?",
     text:
-      "We train students and fellows across microbiology, immunology, circadian biology, cell biology, and zebrafish models. Prospective members should read the research areas and contact Dr. Kimmey with a concise description of their background and interests.",
+      "We train students and fellows across microbiology, immunology, circadian biology, cell biology, and animal models. Prospective members should read the research areas and publications carefully and consider whether the lab's focus, expectations, and training environment are a good fit.",
     email: "jkimmey@ucsc.edu",
   },
   contact: {

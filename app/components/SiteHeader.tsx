@@ -9,7 +9,6 @@ export function SiteHeader() {
       </a>
       <nav>
         <a href="/#research">Research</a>
-        <a href="/#video">Video</a>
         <a href="/people">People</a>
         <a href="/publications">Publications</a>
         <a href="/join">Join</a>

@@ -858,7 +858,7 @@ h2 {
 
 .footer {
   display: grid;
-  grid-template-columns: 180px 1fr auto;
+  grid-template-columns: 180px 1fr;
   gap: 24px;
   align-items: center;
   padding: 36px clamp(22px, 5vw, 72px);

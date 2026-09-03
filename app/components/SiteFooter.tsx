@@ -9,12 +9,6 @@ export function SiteFooter() {
         <p>{siteContent.contact.department}</p>
         <p>{siteContent.contact.location}</p>
       </div>
-      <div className="footer-links">
-        <a href={`mailto:${siteContent.contact.email}`}>
-          {siteContent.contact.email}
-        </a>
-        <a href={siteContent.contact.instagram}>@kimmeylab</a>
-      </div>
     </footer>
   );
 }
