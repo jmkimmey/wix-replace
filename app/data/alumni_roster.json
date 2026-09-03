@@ -1,0 +1,189 @@
+{
+  "groups": [
+    {
+      "heading": "Graduate Students (Thesis Lab)",
+      "people": [
+        {
+          "name": "Colin McEachen",
+          "rest": " — MS Student (Sept 2023 - Jun 2025). Defended thesis Jun 2025! Next: applying to PhD programs",
+          "slug": "j-colin-mceachen"
+        },
+        {
+          "name": "Jaden Knight",
+          "rest": " — MS student, 4+1 track (Sep 2022 - Mar 2025). Defended thesis Mar 2025! Next: applying to industry",
+          "slug": "jaden-knight"
+        },
+        {
+          "name": "Raina Sacksteder",
+          "rest": " — MS student (Mar 2021 - Mar 2023). Defended thesis Mar 2023! Next: Dancer / Choreographer / Ballet Instructor",
+          "slug": "raina-sacksteder"
+        },
+        {
+          "name": "Ti Lam",
+          "rest": " — MS student (Mar 2020 - Dec 2021). Defended thesis Dec 2021! Next: Research Associate at Exai Bio",
+          "slug": null
+        },
+        {
+          "name": "Tiffany Thisner",
+          "rest": " — PhD Student (Mar 2020 - Mar 2021). Withdrew from program to pursue non-academic paths",
+          "slug": null
+        }
+      ]
+    },
+    {
+      "heading": "Graduate Students (Rotation students; joined other lab for thesis work)",
+      "people": [
+        {
+          "name": "Katie Miller",
+          "rest": " (METX; 2024 entry). Thesis lab: Fitnat Yildiz",
+          "slug": null
+        },
+        {
+          "name": "Ana Ponce",
+          "rest": " (METX; 2024 entry). Thesis lab: Karen Ottemann",
+          "slug": null
+        },
+        {
+          "name": "Cristina Vargas",
+          "rest": " (METX; 2024 entry). Thesis lab: Vicki Auerbuch Stone",
+          "slug": null
+        },
+        {
+          "name": "Joshua Shaffer",
+          "rest": " (MCD; 2019 entry). Thesis lab: Upasna Sharma",
+          "slug": null
+        },
+        {
+          "name": "Stephanie Aguiar",
+          "rest": " (MCD; 2019 entry). Thesis lab: Raquel Chamorro-Garcia",
+          "slug": null
+        }
+      ]
+    },
+    {
+      "heading": "Undergraduates, Postbac, and Other Pre-Graduate Trainees",
+      "people": [
+        {
+          "name": "Eric Delgado",
+          "rest": " (Jan 2025 - June 2026). Graduated June 2026! Next: Postbac in the Palm Lab at Yale",
+          "slug": "eric-delgado"
+        },
+        {
+          "name": "Pratheeka Budamagunta",
+          "rest": " (Oct 2024 - June 2026). Graduated June 2026! Next: MS program in Southern CA",
+          "slug": "pratheeka-budamagunta"
+        },
+        {
+          "name": "Philip Kovelman-Ottilie",
+          "rest": " (Oct 2023 - Jun 2025). Graduated June 2025! Next: MS program in Germany",
+          "slug": "philip-kovelman-ottilie"
+        },
+        {
+          "name": "Corey Witt",
+          "rest": " — Undergraduate Scholar (Jun 2024 - Jun 2025). Graduated June 2025! Next: research program at the NIH",
+          "slug": "corey-witt"
+        },
+        {
+          "name": "Charu Sharma",
+          "rest": " — Undergraduate (MCD) (May 2024 - Sep 2024)",
+          "slug": "charu-sharma"
+        },
+        {
+          "name": "Kate Wolsfeld",
+          "rest": " — ACCESS Scholar (Jun - Aug 2024). Next: finishing undergrad at Cabrillo College",
+          "slug": null
+        },
+        {
+          "name": "Kevin Halim",
+          "rest": " — Undergraduate (Jan 2023 - Jun 2024). Graduated June 2024! Next: applying to med school",
+          "slug": "kevin-halim"
+        },
+        {
+          "name": "Mariana Tominaga Pereira",
+          "rest": " — Undergraduate Visiting Scholar (Jan - May 2024). Next: back at U. São Paolo finishing her B.S.",
+          "slug": "mariana-tominaga-pereira"
+        },
+        {
+          "name": "Emily Pasion",
+          "rest": " — Undergraduate (Apr - Dec 2023). Graduated Dec 2023! Next: Stayed in the lab as a Jr. Specialist!",
+          "slug": "emily-noelle-pasion"
+        },
+        {
+          "name": "Griffin Bohman",
+          "rest": " — GAIN Scholar (Jun - Aug 2023). Next: Undergrad at CSUMB, class of 2024",
+          "slug": null
+        },
+        {
+          "name": "Hailey Christian",
+          "rest": " — GAIN Scholar (Jun - Aug 2023). Next: Undergrad at CSUMB, class of 2025, applying to grad school",
+          "slug": null
+        },
+        {
+          "name": "Jared Kolahi",
+          "rest": " — Undergraduate (Sep 2022 - Sep 2023). Graduated Summer 2023!",
+          "slug": null
+        },
+        {
+          "name": "Jaden W. Knight",
+          "rest": " — Undergraduate (Jun 2022 - Jun 2023). Graduated Spring 2023! Next: Continued as an MS student in the lab!",
+          "slug": "jaden-knight"
+        },
+        {
+          "name": "Ziad Kedkad",
+          "rest": " — Undergraduate (Aug 2021 - Mar 2023). Graduated Winter 2023! Next: Technician at UCSF",
+          "slug": "ziad-kedkad"
+        },
+        {
+          "name": "Nathan Boucher",
+          "rest": " — Undergraduate (Jan 2022 - Dec 2022). Graduated Winter 2023! Next: PA school, entry 2025",
+          "slug": null
+        },
+        {
+          "name": "Hadassah Legaspi",
+          "rest": " — ACCESS Scholar (Jun - Aug 2022). Next: Graduated UCLA, class of 2024",
+          "slug": null
+        },
+        {
+          "name": "Brittany Gomez",
+          "rest": " — PREP Scholar (July 2020 - Mar 2021). Next: PhD program, U Colorado",
+          "slug": null
+        },
+        {
+          "name": "Manasa Handady",
+          "rest": " — Undergrad (Oct 2019 - Mar 2021). Graduated Spring 2021! Next: Med School, St. Louis University (entry 2021)",
+          "slug": "manasa-handady"
+        }
+      ]
+    },
+    {
+      "heading": "Staff",
+      "people": [
+        {
+          "name": "Santiago Ruiz Solis",
+          "rest": " — Jr. Specialist (June 2025 - June 2026). Next: TBD",
+          "slug": "santiago-ruiz-solis"
+        },
+        {
+          "name": "Andy (Andrew) Diamos",
+          "rest": " — Project Scientist (Aug 2024 - Mar 2025). Next: Video Game Streamer (YouTube and Twitch)",
+          "slug": "andrew-g-diamos"
+        },
+        {
+          "name": "Emily Pasion",
+          "rest": " — Technician (Apr 2023 - Jan 2025). Next: MS student, Genomic Data Analysis @ Keck Graduate Institute (entry 2025)",
+          "slug": "emily-noelle-pasion"
+        },
+        {
+          "name": "Lisa Sudek",
+          "rest": " — Technician (Sep 2020 - May 2021). Next: Specialist in Carpenter Lab, UCSC",
+          "slug": null
+        },
+        {
+          "name": "Meredith Klashman",
+          "rest": " — Jr. Specialist (Sep 2019 - Jul 2020). Next: MD/MS program at UCSF and Berkeley (entry 2020)",
+          "slug": "meredith-klashman"
+        }
+      ]
+    }
+  ]
+}
