@@ -45,3 +45,5 @@ yarn-error.log*
 /drizzle/
 /examples/
 /worker/
+/app/chatgpt-auth.ts
+/drizzle.config.ts
