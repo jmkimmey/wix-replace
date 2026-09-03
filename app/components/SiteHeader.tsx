@@ -12,8 +12,9 @@ export function SiteHeader() {
         <a href="/#video">Video</a>
         <a href="/people">People</a>
         <a href="/publications">Publications</a>
-        <a href="/#join">Join</a>
-        <a href="/#contact">Contact</a>
+        <a href="/join">Join</a>
+        <a href="/diversity">Diversity</a>
+        <a href="/contact">Contact</a>
       </nav>
     </header>
   );

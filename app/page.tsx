@@ -66,7 +66,7 @@ export default function Home() {
             "Recent work on microbial signals, PER2, and clock biology.",
             "/publications",
           ],
-          ["Where we are", "Biomedical Sciences, Department of METX.", "#contact"],
+          ["Where we are", "Biomedical Sciences, Department of METX.", "/contact"],
         ].map(([title, text, href]) => (
           <a className="quick-cell" href={href} key={title}>
             <span>{title.split(" ")[0]}</span>
@@ -188,8 +188,8 @@ export default function Home() {
       <section className="join-band" id="join">
         <h2>{siteContent.join.headline}</h2>
         <p>{siteContent.join.text}</p>
-        <a className="button button-primary" href={`mailto:${siteContent.join.email}`}>
-          Email Dr. Kimmey
+        <a className="button button-primary" href="/join">
+          Join the lab
         </a>
       </section>
 
