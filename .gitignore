@@ -41,6 +41,7 @@ yarn-error.log*
 
 # OpenAI Sites/runtime-only scaffold not needed for public static hosting
 /.openai/
+!/.openai/hosting.json
 /db/
 /drizzle/
 /examples/
