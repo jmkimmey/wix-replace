@@ -1,6 +1,0 @@
-[build]
-  command = "pnpm run build:static"
-  publish = "dist/client"
-
-[build.environment]
-  NODE_VERSION = "24"
