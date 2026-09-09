@@ -172,6 +172,28 @@
       "areas": [],
       "order": 11,
       "photo": "assets/team/Estela Garcia.jpeg"
+    },
+    {
+      "name": "Hailey Christian",
+      "slug": "hailey-christian",
+      "job_title": "M.S. Student (METX)",
+      "dates": "(09/2026 - present)",
+      "highlights": [
+        "Fun Fact: I first was in the Kimmey Lab as a GAIN scholar in 2023",
+        "Area of focus: time of day effects during infection",
+        "Ask me for help with: animal models, streptococcus pneumoniae"
+      ],
+      "bio": "Bio coming soon!",
+      "email": "",
+      "photo_file": null,
+      "areas": [
+        "infection",
+        "murine",
+        "pneumonia",
+        "circadian clock"
+      ],
+      "order": 12,
+      "photo": "assets/images/8d6acf_ff5e9eea03c64e3d874b99581b7ecdfb~mv2.png"
     }
   ],
   "alumni_profiles": [
