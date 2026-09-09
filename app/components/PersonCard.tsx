@@ -15,7 +15,6 @@ export function PersonCard({ basePath, person }: Props) {
           <h3>{person.name}</h3>
           <p className="role">{person.job_title}</p>
           <p className="dates">{person.dates}</p>
-          {person.highlights[0] ? <p>{person.highlights[0]}</p> : null}
         </div>
       </a>
     </article>
