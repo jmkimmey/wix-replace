@@ -67,3 +67,16 @@ test("Hailey, Aswad, and Moe use their correct portraits", async () => {
     await access(assetPath(`team/${filename}`));
   }
 });
+
+test("undergraduate applicants are directed to the standing interest form", async () => {
+  const joinPage = await readFile(
+    new URL("../app/join/page.tsx", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(joinPage, /There are currently no open undergraduate research positions/);
+  assert.match(joinPage, /https:\/\/forms\.gle\/NszjN1aPCryvof398/);
+  assert.match(joinPage, /notified automatically when the form is submitted/);
+  assert.match(joinPage, /no need to email or check in/);
+  assert.doesNotMatch(joinPage, /mailto:jkimmey@ucsc\.edu/);
+});

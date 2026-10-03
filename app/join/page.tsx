@@ -64,11 +64,29 @@ export default function JoinPage() {
         <article className="text-card">
           <h2>Undergraduate Researchers</h2>
           <p>
-            We accept committed undergraduate researchers to carry out
-            independent study as space allows. Students must be able to commit
-            15 hours/week for at least 4 quarters. If you are interested,
-            please reach out to <a href="mailto:jkimmey@ucsc.edu">Dr. Kimmey</a>{" "}
-            to see if there is currently space in the lab.
+            There are currently no open undergraduate research positions.
+            Availability changes throughout the year based on space, project
+            needs, mentorship capacity, and when current undergraduates
+            graduate. Students must be able to commit 15 hours/week for at
+            least 4 quarters.
+          </p>
+          <p>
+            If you would like to be considered for a future opening, please
+            complete our{" "}
+            <a href="https://forms.gle/NszjN1aPCryvof398">
+              undergraduate research interest form
+            </a>
+            . Dr. Kimmey is notified automatically when the form is submitted,
+            so there is no need to email or check in—you are all set once your
+            response is recorded.
+          </p>
+          <p>
+            When an opening becomes available, we review the form responses to
+            identify applicants who may be a good fit for the available project
+            and mentorship. We then contact those applicants to confirm that
+            they are still interested and invite selected applicants to
+            interview. If you have not heard from us, there is not currently an
+            opening that is a good fit.
           </p>
           <p>The form will ask for the following, so it is good to have these handy:</p>
           <ul>
