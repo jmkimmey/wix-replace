@@ -97,6 +97,29 @@
       "photo": "assets/team/Devons Mo.jpg"
     },
     {
+      "name": "Hailey Christian",
+      "slug": "hailey-christian",
+      "job_title": "M.S. Student",
+      "dates": "(09/2026 - present)",
+      "highlights": [
+        "Fun fact: I was a competitive Irish dancer for 10 years",
+        "Area of focus: time-of-day effects during infection",
+        "Ask me for help with: mouse models, Streptococcus pneumoniae, colonization"
+      ],
+      "bio": "Hailey graduated from California State University, Monterey Bay in 2024 with a B.S. in Biology. She completed her honors capstone in the Macabenta Lab, studying cell migration defects in Drosophila. After graduating, she worked at Thermo Fisher Scientific as a Biomanufacturing Custom Formulation Technician, where she manufactured and formulated synthetic DNA for a variety of research applications. Currently, Hailey is pursuing her master's degree, focusing her research on time-of-day effects during infection.\n\nIn the future, she hopes to run her own research lab focused on finding a cure for type 1 diabetes.",
+      "email": "",
+      "photo_file": "hailey-christian.jpg",
+      "areas": [
+        "infection",
+        "murine",
+        "pneumonia",
+        "microbiology",
+        "circadian clock"
+      ],
+      "order": 12,
+      "photo": "assets/team/hailey-christian.jpg"
+    },
+    {
       "name": "Moe Lay",
       "slug": "moe-lay",
       "job_title": "Undergraduate (Microbiology)",
@@ -108,13 +131,13 @@
       ],
       "bio": "I am a Jack Kent Cooke Undergraduate Transfer and Regents Scholar, majoring in Microbiology. After graduation, I plan to pursue graduate studies, and build a long-term career in academic research. Whenever time allows, I love taking every road, enjoying small adventures, and connecting with loved ones.\n\nAs of Fall 2026, Moe has been admitted to the METX 4+1 program.",
       "email": "molay@ucsc.edu",
-      "photo_file": "Moe%20Lay.jpg",
+      "photo_file": "moe-lay.jpg",
       "areas": [
         "cell biology",
         "circadian clock"
       ],
       "order": 8,
-      "photo": "assets/team/Moe Lay.jpg"
+      "photo": "assets/team/moe-lay.jpg"
     },
     {
       "name": "Aswad Khadilkar, Ph.D",
@@ -128,14 +151,14 @@
       ],
       "bio": "Bio coming soon!",
       "email": "askhadil@ucsc.edu",
-      "photo_file": "3_edited.png",
+      "photo_file": "aswad-khadilkar.jpg",
       "areas": [
         "chemistry",
         "circadian clock",
         "microbiology"
       ],
       "order": 9,
-      "photo": "assets/images/8d6acf_ff5e9eea03c64e3d874b99581b7ecdfb~mv2.png"
+      "photo": "assets/team/aswad-khadilkar.jpg"
     },
     {
       "name": "Cameron Scacheri",
@@ -172,28 +195,6 @@
       "areas": [],
       "order": 11,
       "photo": "assets/team/Estela Garcia.jpeg"
-    },
-    {
-      "name": "Hailey Christian",
-      "slug": "hailey-christian",
-      "job_title": "M.S. Student (METX)",
-      "dates": "(09/2026 - present)",
-      "highlights": [
-        "Fun Fact: I first was in the Kimmey Lab as a GAIN scholar in 2023",
-        "Area of focus: time of day effects during infection",
-        "Ask me for help with: animal models, streptococcus pneumoniae"
-      ],
-      "bio": "Bio coming soon!",
-      "email": "",
-      "photo_file": null,
-      "areas": [
-        "infection",
-        "murine",
-        "pneumonia",
-        "circadian clock"
-      ],
-      "order": 12,
-      "photo": "assets/images/8d6acf_ff5e9eea03c64e3d874b99581b7ecdfb~mv2.png"
     }
   ],
   "alumni_profiles": [

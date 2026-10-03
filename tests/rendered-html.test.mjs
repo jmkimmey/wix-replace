@@ -2,6 +2,9 @@ import { access, readFile } from "node:fs/promises";
 import assert from "node:assert/strict";
 import test from "node:test";
 
+const assetPath = (relativePath) =>
+  new URL(`../public/assets/kimmeylab/${relativePath}`, import.meta.url);
+
 test("home page source contains lab sections and no starter preview", async () => {
   const page = await readFile(new URL("../app/page.tsx", import.meta.url), "utf8");
   const content = await readFile(new URL("../app/content.ts", import.meta.url), "utf8");
@@ -45,4 +48,22 @@ test("internal navigation uses plain browser anchors", async () => {
 test("build emits the worker and social image", async () => {
   await access(new URL("../dist/server/index.js", import.meta.url));
   await access(new URL("../dist/client/og.png", import.meta.url));
+});
+
+test("Hailey, Aswad, and Moe use their correct portraits", async () => {
+  const team = JSON.parse(
+    await readFile(new URL("../app/data/team.json", import.meta.url), "utf8"),
+  );
+  const expected = {
+    "hailey-christian": "hailey-christian.jpg",
+    "aswad-khadilkar-phd": "aswad-khadilkar.jpg",
+    "moe-lay": "moe-lay.jpg",
+  };
+
+  for (const [slug, filename] of Object.entries(expected)) {
+    const person = team.current.find((candidate) => candidate.slug === slug);
+    assert.ok(person);
+    assert.equal(person.photo, `assets/team/${filename}`);
+    await access(assetPath(`team/${filename}`));
+  }
 });
