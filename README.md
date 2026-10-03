@@ -1,5 +1,11 @@
 # Kimmey Lab Website
 
+> **Public deployment authority:** `https://kimmeylab.com` is served from this
+> repository's `gh-pages` branch. Source changes belong on `main`; generated
+> `dist/client` output belongs on `gh-pages`. The ChatGPT Sites URL is only a
+> separate private preview and does not update the public domain. See
+> `AGENTS.md` before publishing.
+
 Static-export version of the Kimmey Lab website.
 
 ## What To Deploy
